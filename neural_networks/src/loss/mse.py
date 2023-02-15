@@ -2,6 +2,9 @@ import numpy as np
 
 
 class MSE():
+  '''
+    Mean Squared Error
+  '''
   @staticmethod
   def loss(Y_hat, Y):
     return np.mean(np.square(Y - Y_hat))

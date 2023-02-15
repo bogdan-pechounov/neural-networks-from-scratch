@@ -9,4 +9,4 @@ Attempt to write GPU friendly code.
 
 [Student Performance Data Set](https://archive.ics.uci.edu/ml/datasets/student+performance)
 
-[Statlog (Heart) Data Set](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Heart%29)
+<!-- [Statlog (Heart) Data Set](https://archive.ics.uci.edu/ml/datasets/Statlog+%28Heart%29) -->

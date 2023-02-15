@@ -6,9 +6,13 @@ class Layer():
     Fullly connected layer
   '''
 
-  def __init__(self, input_size, output_size):
+  def __init__(self, input_size, output_size, randomize=True):
     # initialize weights and biases
-    self.W = np.ones((input_size, output_size))
+    if randomize:
+      # divide by input_size to prevent exploding gradients
+      self.W = np.random.randn(input_size, output_size)/input_size
+    else:
+      self.W = np.ones((input_size, output_size))
     self.b = np.zeros((1, output_size))
 
   def forward(self, X):
