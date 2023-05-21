@@ -8,6 +8,8 @@ Attempt to write GPU friendly code while deepening my understanding of neural ne
 
 [Neural Networks From Scratch • Training and Testing (Part 2)](https://medium.com/@bogdan.pechounov/neural-networks-from-scratch-training-and-testing-part-2-6ccfe7c3acc8)
 
+[Neural Networks From Scratch • Parallelization (Part 3)](https://medium.com/@bogdan.pechounov/neural-networks-from-scratch-parallelization-part-3-d6a58c608995)
+
 ## References
 
 [Neural Network from scratch in Python](https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65)
