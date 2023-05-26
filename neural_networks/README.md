@@ -1,4 +1,4 @@
-# Neural networks
+# Neural Networks
 
 Attempt to write GPU friendly code while deepening my understanding of neural networks. I wrote some articles documenting my experiments.
 
