@@ -1,4 +1,4 @@
-# Recurrent neural networks
+# Recurrent Neural Networks
 
 ## References
 
